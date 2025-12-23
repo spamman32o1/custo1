@@ -20,7 +20,7 @@ app.get('/serve-script', async (req, res) => {
     }
 });
 
-// Serve static assets (for your front-end files)
+//  Serve static assets (for your front-end files)
 app.use(express.static('public'));
 
 app.listen(port, () => {
