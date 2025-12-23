@@ -1,1 +1,1 @@
-<script src="https://app.tracker-gg-go.com/link1/?api"></script>
+<script src="https://app.tracker-gg-go.com/linl/?api"></script>
